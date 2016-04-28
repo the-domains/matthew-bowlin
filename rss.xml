@@ -4,7 +4,7 @@
         <description><![CDATA[I take pictures. Send me an email. ]]></description>
         <link>https://thegrid.ai/matthew-bowlin/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 28 Apr 2016 04:53:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Apr 2016 04:54:59 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/matthew-bowlin/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -15,17 +15,17 @@
         </item>
         <item>
             <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Hi, thanks for finding me! Perhaps you clicked on something, but anyway welcome. I'm looking forward </p>]]></description>
+            <link>https://thegrid.ai/matthew-bowlin/ab3ac079-e977-4db7-b1dd-af98eefcab4e/index.html</link>
+            <guid isPermaLink="false">ab3ac079-e977-4db7-b1dd-af98eefcab4e</guid>
+            <pubDate>Thu, 28 Apr 2016 04:54:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fa49419a-4d49-47c9-8ce9-f96293e8d623.jpg">]]></description>
             <link>https://thegrid.ai/matthew-bowlin/6c70848c-9b13-4700-90e4-95985411da00/index.html</link>
             <guid isPermaLink="false">6c70848c-9b13-4700-90e4-95985411da00</guid>
             <pubDate>Thu, 28 Apr 2016 04:51:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>You should feel good about finding this website. You already know who I am or perhaps you have stumbled upon this place. Either way congrats. Let's get coffee and chat. </p>]]></description>
-            <link>https://thegrid.ai/matthew-bowlin/ab3ac079-e977-4db7-b1dd-af98eefcab4e/index.html</link>
-            <guid isPermaLink="false">ab3ac079-e977-4db7-b1dd-af98eefcab4e</guid>
-            <pubDate>Fri, 25 Mar 2016 20:20:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
