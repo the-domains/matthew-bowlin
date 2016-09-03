@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[I take pictures. Send me an email. ]]></title>
-        <description><![CDATA[I take pictures. Send me an email. ]]></description>
+        <title><![CDATA[Matthew Bowlin - Photo Artist]]></title>
+        <description><![CDATA[Matthew Bowlin - Photo Artist]]></description>
         <link>https://thegrid.ai/matthew-bowlin/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 28 Apr 2016 05:59:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2016 22:57:40 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/matthew-bowlin/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -14,18 +14,18 @@
             <pubDate>Fri, 25 Mar 2016 20:18:32 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Something here…]]></title>
+            <description><![CDATA[<article><h1>Something here…</h1><p>I am so glad you made it here. Keep it up, pal! All I can really do here is post text and images. I am doing just that so keep coming back. </p></article>]]></description>
+            <link>https://thegrid.ai/matthew-bowlin/ab3ac079-e977-4db7-b1dd-af98eefcab4e/index.html</link>
+            <guid isPermaLink="false">ab3ac079-e977-4db7-b1dd-af98eefcab4e</guid>
+            <pubDate>Wed, 31 Aug 2016 22:57:22 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f24c68f8-56c3-431a-9dda-7d14eedc4704.jpg">]]></description>
             <link>https://thegrid.ai/matthew-bowlin/this-is-a-black-and-white-photo-of-my-room-when-i-was-about/index.html</link>
             <guid isPermaLink="false">ba15b023-ac30-404a-a040-02cb1e62a327</guid>
             <pubDate>Thu, 28 Apr 2016 05:58:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Hi, thanks for finding me! Perhaps you clicked on something, but anyway welcome. I'm looking forward </p>]]></description>
-            <link>https://thegrid.ai/matthew-bowlin/ab3ac079-e977-4db7-b1dd-af98eefcab4e/index.html</link>
-            <guid isPermaLink="false">ab3ac079-e977-4db7-b1dd-af98eefcab4e</guid>
-            <pubDate>Thu, 28 Apr 2016 05:46:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
